@@ -17,7 +17,7 @@
     flex-direction: column;
     justify-content: start;
     width: 520px;
-    min-height: 600px;
+    min-height: 550px;
     background: linear-gradient(90deg, rgb(20, 38, 157) 0%, rgb(61, 60, 28) 100%);
     text-align: center;
     margin: 128px auto;
